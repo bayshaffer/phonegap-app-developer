@@ -1,0 +1,375 @@
+repo_name: bayshaffer/phonegap-app-developer
+report_id: 8399bee197ae465551bc85ee1c17c18c
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-20T23:20:16+00:00'
+requested_by: erisu
+provider: github
+branch: master
+detected_tools_count: 26
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 2.7.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-01-10 22:58:53.000000000 Z
+- name: PhoneGap
+  description: Easilily create mobile apps using HTML, CSS, and JavaScript
+  website_url: http://phonegap.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/777/NgaEDjHt.jpg
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: エリス
+  last_updated_on: 2019-09-17 07:42:20.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: timkim
+  last_updated_on: 2017-11-28 21:51:56.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-01-10 22:58:53.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 23.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-01-10 22:58:53.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Michael Brooks
+  last_updated_on: 2015-08-13 18:58:15.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/tests/www/createmobilespec/package.json
+  detection_source: tests/www/createmobilespec/package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-05-09 18:46:04.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-01-10 22:58:53.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer
+  detection_source: Repo Metadata
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.7.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: tests/www/createmobilespec/package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-05-09 18:46:04.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.76.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: timkim
+  last_updated_on: 2017-10-23 22:20:39.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: xml2js
+  description: Simple XML to JavaScript object converter
+  package_url: https://www.npmjs.com/xml2js
+  version: 0.4.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16122/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: timkim
+  last_updated_on: 2017-10-23 22:20:39.000000000 Z
+  vulnerabilities:
+  - name: xml2js is vulnerable to prototype pollution
+    cve_id: CVE-2023-0842
+    cve_url: https://github.com/advisories/GHSA-776f-qx25-q3cc
+    detected_date: Apr 8
+    severity: moderate
+    first_patched: 0.5.0
+- name: app-root-path
+  description: Determine an app's root path from anywhere inside the app
+  package_url: https://www.npmjs.com/app-root-path
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16640/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: timkim
+  last_updated_on: 2017-10-23 22:20:39.000000000 Z
+- name: eslint-config-semistandard
+  description: Eslint sharable config for semistandard
+  package_url: https://www.npmjs.com/eslint-config-semistandard
+  version: 12.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17232/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jesse MacFadyen
+  last_updated_on: 2018-09-04 20:20:28.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jesse MacFadyen
+  last_updated_on: 2018-09-04 20:20:28.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: エリス
+  last_updated_on: 2019-09-17 07:42:20.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: エリス
+  last_updated_on: 2019-09-17 07:42:20.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: エリス
+  last_updated_on: 2019-09-17 07:42:20.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: エリス
+  last_updated_on: 2019-09-17 07:42:20.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 0.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: timkim
+  last_updated_on: 2017-10-23 22:20:39.000000000 Z
+- name: optimist
+  description: Light-weight option parsing with an argv hash
+  package_url: https://www.npmjs.com/optimist
+  version: 0.6.1
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/bayshaffer/phonegap-app-developer/blob/master/package-lock.json
+  detection_source: tests/www/createmobilespec/package.json
+  last_updated_by: Michael Brooks
+  last_updated_on: 2014-05-09 18:46:04.000000000 Z
